@@ -1,0 +1,91 @@
+<style>
+    .heading{
+        font-size:25px;
+        margin-bottom: 1px;
+        color:rgb(29, 25, 13);
+        background-color: blue;
+        border-radius: 12px;
+        height: 29px;
+        width: 500px;
+        text-align: center;
+        margin:5px 50px 1px;
+        transition: background-color 1s,
+        color 1s;
+
+
+    }
+    .heading:hover{
+        background-color: rgb(24, 2,200);
+
+    }
+
+    .headin1:hover{
+        background-color:  rgb(24, 2,200);
+    }
+    .s:hover{
+        opacity: 0.6;
+        background-color:rgb(154, 178, 209);
+        transition: background-color 1s,
+        color 1s;
+        cursor: pointer;
+
+    }
+    .d:hover{
+        opacity: 0.6;
+            background-color:rgb(154, 178, 209);
+            transition: background-color 1s,color 1s;
+            cursor: pointer;
+    }
+    .f:hover{
+        opacity: 0.6;
+        transition: background-color 1s,color 1s;
+        cursor: pointer;
+        background-color:rgb(154, 178, 209);
+    }
+    .button:hover{
+        border-width:none;
+        background-color: red;
+        cursor: pointer;
+        transition: background-color 1s,color 1s;
+    }
+    .headin1{
+        
+        margin:5px 50px 1px;
+        color:rgb(168, 158, 130);
+        background-color: rgb(0,0,255);;
+        border-radius: 12px;
+        height: 29px;
+        width: 500px;
+        text-align:left
+        
+        
+    }
+
+    .s{
+    border-width: 2px;
+    border-color: gray;
+    border-style:solid;
+    font-size: 15px;
+    }
+    .d{
+    border-width: 2px;
+    border-color: gray;
+    border-style:solid;
+    font-size: 15px;
+    }
+    .f{
+    border-width: 2px;
+    border-color: gray;
+    border-style:solid;
+    font-size: 15px;
+    }
+    .cotent{
+    font-size:25px;
+    }
+    
+
+    .button{
+
+    }
+
+</style>
